@@ -3,7 +3,7 @@ layout: post
 title: La importancia de la reusabilidad
 subtitle: Bienvenidos a GitHub.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/futuro.png
+thumbnail-img: /assets/img/kaos-json.png
 share-img: /assets/img/path.jpg
 tags: [post, test]
 author: bbt2+

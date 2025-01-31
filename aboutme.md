@@ -14,7 +14,6 @@ My Nombre es Alejandro Santacana Cantón (SantaKloud) y suelo trabajar con:
 - Desarrollo de plataformas, utilidades, servicios, productos, etc basados en código.
 - Observabilidad
 
-
 ### Mi historia
 
 Nací un frío 5 de febrero de 1970, mientras que en Madrid nevaba. Aquí están mis comienzos, mi familia y mis inseparables amigos.
@@ -32,5 +31,3 @@ He conocido empresas grandes y pequeñas que me han permitido tomar contacto con
 Me encantan los proyectos donde las personas tienen el coraje de soñar y de correr el riesgo de vivir sus sueños.
 
 Sobre todo me encantan los desafíos, la fotografía, los deportes de invierno y aprender de mis hijos... y en general procuro hacer un hueco para todo aquello que despierta mi interés.
-
-

@@ -3,7 +3,7 @@ layout: post
 title: La importancia de reciclar
 subtitle: Bienvenidos a GitHub Actions.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/futuro.png
+thumbnail-img: /assets/img/kaos-yamllint.png
 share-img: /assets/img/path.jpg
 tags: [post, test]
 author: bbt2+

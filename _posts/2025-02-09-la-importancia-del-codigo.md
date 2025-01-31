@@ -3,7 +3,7 @@ layout: post
 title: La importancia del código
 subtitle: Bienvenidos al código.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/futuro.png
+thumbnail-img: /assets/img/kaos-secrets.png
 share-img: /assets/img/path.jpg
 tags: [post, test]
 author: bbt2+
