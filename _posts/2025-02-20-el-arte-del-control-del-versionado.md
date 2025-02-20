@@ -3,7 +3,7 @@ layout: post
 title: El Arte del control de versionado
 subtitle: Clave para el éxito en el desarrollo de software.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/kaos-owners.png
+thumbnail-img: /assets/img/kaos-version.png
 share-img: /assets/img/path.jpg
 tags: [post, test]
 author: yolb
