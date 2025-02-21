@@ -8,6 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [post, release candidate Klaus]
 author: bbt2+
 ---
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/ka0s-klaus/ka0s/main) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ka0s-klaus/ka0s)
 
 Albert Einstein dijo una vez: "... si tu intención es describir la verdad, hazlo con sencillez y la elegancia déjasela al sastre."
 
