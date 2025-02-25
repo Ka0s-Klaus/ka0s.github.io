@@ -15,14 +15,14 @@ Uno de los primeros mandamientos dentro del desarrollo de Ka0s es que " ... todo
 ![Público](/assets/img/ka0s-actividad.png)
 
 - Haciendo público el estado de sus infraestructuras
-![Activity](/ka0s.github.io/assets/img/ka0s-ecosistema.png)
+![Activity](/assets/img/ka0s-ecosistema.png)
 
 - Mostrando toda la información
-![Activity](/ka0s.github.io/assets/img/ka0s-leadtime.png)
+![Activity](/assets/img/ka0s-leadtime.png)
 
 - Paso a paso
-![Activity](/ka0s.github.io/assets/img/ka0s-workinprogress.png)
+![Activity](/assets/img/ka0s-workinprogress.png)
 
 Gracias a todos estos pequeños detalles y a nuestro maravilloso equipo de desarrollo, nos vemos en las mejores condiciones para alcanzar nuestro objetivos.
 
-![Activity](/ka0s.github.io/assets/img/ka0s-roadmap.png)
+![Activity](/assets/img/ka0s-roadmap.png)
