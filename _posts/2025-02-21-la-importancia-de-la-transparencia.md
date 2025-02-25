@@ -12,7 +12,7 @@ author: bbt2+
 Uno de los primeros mandamientos dentro del desarrollo de Ka0s es que " ... todo debe de estar publicado antes de ser puesto en pruebas ....". Y sí, lo habeís leido bien el primer acto que hace Ka0s es auditarse a sí mismo, ¿cómo?:
 
 - Haciendo público cada paso en el que se trabaja.
-![Activity](/ka0s.github.io/assets/img/ka0s-actividad.png)
+![Público](/assets/img/ka0s-actividad.png)
 
 - Haciendo público el estado de sus infraestructuras
 ![Activity](/ka0s.github.io/assets/img/ka0s-ecosistema.png)
