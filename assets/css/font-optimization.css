@@ -1,0 +1,10 @@
+/* Font display optimization */
+@font-face {
+  font-family: 'Lora';
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-display: swap;
+}

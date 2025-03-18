@@ -36,3 +36,18 @@
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<script>
+  // Add lazy loading to images that don't already have it
+  document.addEventListener('DOMContentLoaded', function() {
+    const images = document.querySelectorAll('img:not([loading])');
+    images.forEach(img => {
+      img.setAttribute('loading', 'lazy');
+      // Add width and height if missing
+      if (!img.getAttribute('width') && !img.getAttribute('height')) {
+        img.setAttribute('width', '100%');
+        img.setAttribute('height', 'auto');
+      }
+    });
+  });
+</script>

@@ -40,7 +40,7 @@ layout: base
       {% endif %}
 
       <div class="blog-post">
-        {{ content }}
+        {{ content | replace: '<img src="', '<img width="100%" height="auto" loading="lazy" src="' }}
       </div>
 
       {% if page.tags.size > 0 %}

@@ -172,4 +172,14 @@
     {% endfor %}
   {% endif %}
 
+  {% if page.cover-img %}
+  <link rel="preload" as="image" href="{{ page.cover-img | relative_url }}" />
+  {% endif %}
+  
+  {% if page.thumbnail-img %}
+  <link rel="preload" as="image" href="{{ page.thumbnail-img | relative_url }}" />
+  {% endif %}
+
+  <!-- Font optimization -->
+  <link rel="stylesheet" href="{{ "/assets/css/font-optimization.css" | relative_url }}">
 </head>
