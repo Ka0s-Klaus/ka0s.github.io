@@ -2,9 +2,20 @@
 @font-face {
   font-family: 'Lora';
   font-display: swap;
+  font-style: normal;
+  font-weight: 400 700;
+  src: local('Lora');
 }
 
 @font-face {
   font-family: 'Open Sans';
   font-display: swap;
+  font-style: normal;
+  font-weight: 300 800;
+  src: local('Open Sans');
+}
+
+/* Preload critical fonts */
+:root {
+  text-rendering: optimizeSpeed;
 }
