@@ -9,13 +9,13 @@ tags: [post, pro, web, status]
 author: Jhonathan Chaves Manzano 
 ---
 
-Nuestra primera misión en el desarrollo de Ka0s es la creación de un dashboard dinámico e inteligente diseñado para ofrecer una experiencia personalizable y en tiempo real. Su estructura permite que cada usuario configure y ajuste la estructura según sus necesidades, garantizando así una máxima flexibilidad y control sobre la información presentada.
+En Ka0s estamos trabajando en la creación de un dashboard dinámico que sea totalmente personalizable y que se actualice en tiempo real. La idea es que cada usuario pueda ajustar la estructura del dashboard según sus necesidades, de manera que tenga total control sobre la información que se presenta.
 
-Uno de los pilares clave de este desarrollo es la gestión automatizada de los contenidos. Tanto el mantenimiento de actualización de los datos se realizan de forma completamente autónoma y flexible, gracias a una arquitectura basada en código, minimizando la intervención manual.
+Uno de los aspectos clave de este proyecto es la gestión automatizada del contenido. Esto significa que tanto el mantenimiento como la actualización de los datos se realizan de forma automática y flexible, gracias a una arquitectura basada en código, lo que elimina la necesidad de intervención manual.
 
-Ademas, el dashboard está diseñado con un enfoque totalmente responsive, garantizando una experiencia óptima en cualquier dispositivo.
+Además, el dashboard está diseñado para ser responsive, garantizando una experiencia óptima en cualquier dispositivo, ya sea en un ordenador, tablet o móvil.
 
-¡Esto es solo el comienzo!
+¡Y esto es solo el comienzo!
 
 - Haciendo público cada paso en el que se trabaja.
 [Ka0s DashBoard v0.0.0](https://www.ka0s.io/dashboard/Index.html)
