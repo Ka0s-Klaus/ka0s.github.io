@@ -1,7 +1,7 @@
 ---
 layout: post
-title: La sencillez del Ka0s
-subtitle: Idea del DashBoard Ka0s
+title: La Idea del Dashboard Ka0s
+subtitle: El origen del dashboard
 cover-img: /assets/img/AI2.png
 thumbnail-img: /assets/img/ka0s-workinprogress.png
 share-img: /assets/img/AI2.png
