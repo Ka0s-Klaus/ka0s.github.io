@@ -1,22 +1,13 @@
 
 ---
-
 layout: post
-
-title: Publicando el Código de Ka0s
-
+title:Publicando el Código de Ka0s
 subtitle: La transparencia como eje fundamental del proceso
-
 cover-img: /assets/img/atajo.png
-
 thumbnail-img: /assets/img/open_code.png
-
 share-img: /assets/img/path.jpg
-
-tags: [post, pro, web, status]
-
+tags: [dashboard, architecture]
 author: Alejandro Peso Buendía
-
 ---
 
 Nuestro proceso de publicación
