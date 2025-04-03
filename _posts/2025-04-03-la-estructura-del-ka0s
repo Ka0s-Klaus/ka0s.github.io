@@ -1,12 +1,12 @@
 ---
 layout: post
-title: La estructura del Ka0s
-subtitle: Automatización, personalización y accesibilidad en un solo lugar
+title: El codigo Dashboard Ka0s
+subtitle: Arquitectura modular para visualización de datos de CI/CD.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/ka0s-workinprogress.png
+thumbnail-img: /assets/img/codigo_html.png
 share-img: /assets/img/path.jpg
-tags: [post, pro, web, status]
-author: Jhony Chaves
+tags: [dashboard, architecture]
+author: jorgecg
 ---
 
 Nuestra primera misión en el desarrollo de Ka0s es la creación de un dashboard dinámico e inteligente diseñado para ofrecer una experiencia personalizable y en tiempo real. Su estructura permite que cada usuario configure y ajuste la estructura según sus necesidades, garantizando así una máxima flexibilidad y control sobre la información presentada.
