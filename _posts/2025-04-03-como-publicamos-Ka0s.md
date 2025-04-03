@@ -2,7 +2,7 @@
 layout: post
 title: Publicando el Código de Ka0s
 subtitle: La transparencia como eje fundamental del proceso
-cover-img: /assets/img/atajo.png
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/open_code.png
 share-img: /assets/img/path.jpg
 tags: [dashboard, architecture]
