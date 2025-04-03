@@ -8,6 +8,7 @@ share-img: /assets/img/AI2.png
 tags: [post, web, status]
 author: Daniel-NS10
 ---
+##Idea del Dashboard Ka0s##
 
 -Ka0s aporta muchas ventajas al mundo del desarrollo y este Dashboard muestra una de ellas. Todo el código se pone en producción y se publica antes de ser puesto en pruebas,
 de manera que cualquier desarrollador puede modificar el contenido de la web sin parar el servicio de la misma, *simplemente modificando su código*
