@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Publicando el Código de Ka0s
+title: Publicando el Código de Ka0s
 subtitle: La transparencia como eje fundamental del proceso
 cover-img: /assets/img/atajo.png
 thumbnail-img: /assets/img/open_code.png
