@@ -3,7 +3,7 @@ layout: post
 title: La Idea del Dashboard Ka0s
 subtitle: El origen del dashboard
 cover-img: /assets/img/AI2.png
-thumbnail-img: /assets/img/ka0s-workinprogress.png
+thumbnail-img: /assets/img/ka0s-readers.png
 share-img: /assets/img/AI2.png
 tags: [post, web, status]
 author: Daniel-NS10
