@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Estructura del codigo Dashboard Ka0s
+title: El codigo Dashboard Ka0s
 subtitle: Arquitectura modular para visualización de datos de CI/CD.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/kaos-owners.png
+thumbnail-img: /assets/img/codigo_html.png
 share-img: /assets/img/path.jpg
 tags: [dashboard, architecture]
 author: jorgecg
 ---
 
-# Estructura del Dashboard Ka0s
+# Codigo del Dashboard Ka0s
 
 ## Arquitectura General
 El dashboard de Ka0s sigue una arquitectura modular basada en JavaScript y HTML con Tailwind CSS para los estilos. La estructura está diseñada para ser extensible y fácil de mantener.
