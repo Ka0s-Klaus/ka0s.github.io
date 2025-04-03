@@ -43,3 +43,6 @@ El dashboard de Ka0s sigue una arquitectura modular basada en JavaScript y HTML 
 - Sidebar colapsable para optimizar espacio
 - Gráficos que se ajustan al tamaño de la pantalla
 
+- Haciendo público cada paso en el que se trabaja.
+[Ka0s DashBoard v0.0.0](https://www.ka0s.io/dashboard/Index.html)
+
