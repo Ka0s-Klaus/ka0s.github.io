@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El codigo Dashboard Ka0s
-subtitle: Arquitectura modular para visualización de datos de CI/CD.
+subtitle: Dashboard para visualización de datos de Ka0s.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/codigo_html.png
 share-img: /assets/img/path.jpg
