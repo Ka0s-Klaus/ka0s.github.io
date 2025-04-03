@@ -1,20 +1,19 @@
 ---
 layout: post
-title: La sencillez del Ka0s
+title: La estructura del Ka0s
 subtitle: O cómo reducir la curva de aprendizaje
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/ka0s-workinprogress.png
 share-img: /assets/img/path.jpg
 tags: [post, pro, web, status]
-author: bbt2+
+author: Jhonathan Chaves Manzano 
 ---
 
-Nuestra primera misión en el desarrollo de Ka0s es la creación de un dashboard dinámico, donde el contenido se actualiza en tiempo real y la estructura es completamente personalizable.
+Nuestra primera misión en el desarrollo de Ka0s es la creación de un dashboard dinámico e inteligente diseñado para ofrecer una experiencia personalizable y en tiempo real. Su estructura permite que cada usuario configure y ajuste la estructura según sus necesidades, garantizando así una máxima flexibilidad y control sobre la información presentada.
 
-El objetivo es que cada usuario pueda definir y ajustar la composición del dashboard a su medida, brindando así una máxima flexibilidad y control.
+Uno de los pilares clave de este desarrollo es la gestión automatizada de los contenidos. Tanto el mantenimiento de actualización de los datos se realizan de forma completamente autónoma y flexible, gracias a una arquitectura basada en código, minimizando la intervención manual asegurando un 
 
-
-
+¡Esto es solo el comienzo!
 
 es que " ... todo debe de estar publicado antes de ser puesto en pruebas ....". Y sí, lo habeís leido bien *el primer acto que hace Ka0s poner en producción el código*. Y para muestra un botón, llevamos tiempo plasmanda la idea de disponer de un dashboard público que permita en todo momento saber qué, cómo y cuando se hacen las cosas.
 
