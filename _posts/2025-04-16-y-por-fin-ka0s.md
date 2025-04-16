@@ -3,7 +3,7 @@ layout: post
 title: "Y por fín Ka0s"
 subtitle: El origen de nuestra filosofía
 cover-img: /assets/img/AI1.png
-thumbnail-img: /assets/img/open-code.png
+thumbnail-img: /assets/img/open_code.png
 share-img: /assets/img/AI1.png
 tags: [post, metodología]
 author: Ka0s
