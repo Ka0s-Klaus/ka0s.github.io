@@ -10,11 +10,7 @@ author: Ka0s
 ---
 ## Ka0s *metodología y estructura*
 
-Pues ahora, es el momento de que te preguntes a ti mismo, ¿quieres seguir haciendo las cosas de la misma manera? ¿Quieres seguir haciendo las cosas de manera complicada, ineficiente e ineficaz? ¿O quieres hacer las cosas de manera sencilla, eficiente y eficaz? ¿Quieres hacer las cosas de manera [Ka0s](https://github.com/Ka0s-Klaus/ka0s/blob/main/core/docs/ka0s/ka0s_kaizen.md)?
-
-Si tu respuesta es sí, entonces estás en el lugar correcto. [Ka0s](https://github.com/Ka0s-Klaus/ka0s/blob/main/core/docs/ka0s/ka0s_kaizen.md) es el camino hacia la simplicidad, la eficiencia y la eficacia. Ka0s[Ka0s](https://github.com/Ka0s-Klaus/ka0s/blob/main/core/docs/ka0s/ka0s_kaizen.md) es el camino hacia la adaptación, la evolución y la mejora. [Ka0s](https://github.com/Ka0s-Klaus/ka0s/blob/main/core/docs/ka0s/ka0s_kaizen.md) es el camino hacia el futuro.
-
->-Genial¡, pero ¿vaya nombrecito no? ¿Por qué Ka0s? ¿Qué significa? ¿Qué tiene que ver con la tecnología?Nuestra metodología de desarrallo, que no quiere decir que tenga que ser la tuya por obligación 'se explicara mas en detalle', por ende nuestra manera de trabajar se basa en que Ka0s única y exclusivamente se diseño para trabajar en "origin/main".
+Nuestra metodología de desarrallo, que no quiere decir que tenga que ser la tuya por obligación 'se explicara mas en detalle', por ende nuestra manera de trabajar se basa en que Ka0s única y exclusivamente se diseño para trabajar en "origin/main".
 
 Explicado de manera sencilla sería algo así como " ... Ka0s dispone de una unica rama y un único "iniciador" que a través del cual podemos discriminar los entornos de ejecución de las diferentes solicitudes.
 
