@@ -17,8 +17,8 @@ El primer escollo fue solventar el tema de la "resilencia", y más basándola en
 Co...¡ ¿Entrenar? Sí, entrenar. Ka0s dispone de una metodología de "deploy" de sus *ejecutores* diseñada en tres capas, lo cual nos permite:
 
 - Realizar la implementación del computo necesario para Ka0s, usando cada uno de los diferentes "dispositivos" añadidos al *c0re*.
-- Realizar la implementación de cada uno de los componentes de Ka0s, - Realizar la implementación del computo necesario para Ka0s, usando cada uno de los diferentes "dispositivos" añadidos al *c0re*.
-- Realizar el "gobierno" de la propia plataforma, es decir, el control de la red neuronal que se encarga de "entrenar" a la red neuronal para que se adapte a cualquier entorno de ejecución.
+- Realizar la implementación de cada uno de los componentes de Ka0s, usando cada uno de los diferentes "dispositivos" añadidos al *c0re*.
+- Realizar el "gobierno" de la propia plataforma, es decir, de cada uno de los diferentes "dispositivos" añadidos al *c0re*.
 
 Algo así como ...
 ![Ka0s Runner Controller](/assets/img/ka0s-runner-controller.png)
