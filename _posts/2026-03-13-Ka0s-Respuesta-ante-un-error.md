@@ -9,7 +9,7 @@ tags: [video, demo, ka0s, error-handling]
 author: Ka0s
 ---
 
-Análisis de la respuesta del sistema ante un error inesperado. (Parte 1)
+Análisis de la respuesta del sistema ante un error inesperado.
 
 <div style="text-align: center; margin: 30px 0;">
   <video width="100%" controls style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
