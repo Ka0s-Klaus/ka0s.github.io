@@ -36,13 +36,18 @@ jobs:
       - name: Mark Workspace as Safe
         run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
+      - name: Build with Jekyll
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build Site
+        run: bundle exec jekyll build --source ./ --destination ./_site
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

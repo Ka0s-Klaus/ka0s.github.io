@@ -20,9 +20,10 @@ status: "mitigated"
 ## Mitigación aplicada
 
 - Cambiado `_config.yml` a `theme: beautiful-jekyll-theme`.
-- Añadido paso `git config --global --add safe.directory "$GITHUB_WORKSPACE"` antes del build.
+- Se evitó `actions/jekyll-build-pages@v1` (Docker), ya que el `safe.directory` se aplica fuera del contenedor.
+- Build actualizado a Bundler (`ruby/setup-ruby` + `bundle exec jekyll build`) para que instale el gem local del tema (via `gemspec`).
+- Se mantiene `git config --global --add safe.directory "$GITHUB_WORKSPACE"` antes del build.
 
 ## Notas
 
 - El workflow usa GitHub Actions para build+deploy, lo que permite controlar dependencias frente al entorno restringido de GitHub Pages.
-
