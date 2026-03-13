@@ -9,6 +9,11 @@ url: "https://blog.ka0s.io" # the base hostname & protocol for your site
 twitter_username: ka0s_io
 github_username:  Ka0s-Klaus
 
+# Logo
+title-img: "/assets/img/logo-ka0s.png"
+avatar: "/assets/img/kaos-daavid-2.png"
+round-avatar: false
+
 # Build settings
 markdown: kramdown
 theme: beautiful-jekyll-theme
