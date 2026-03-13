@@ -5,7 +5,7 @@ email: hello@ka0s.io
 description: >- # this means to ignore newlines until "baseurl:"
   Engineering Platform & Cloud Native Knowledge Base.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ka0s.github.io" # the base hostname & protocol for your site
+url: "https://blog.ka0s.io" # the base hostname & protocol for your site
 twitter_username: ka0s_io
 github_username:  Ka0s-Klaus
 
