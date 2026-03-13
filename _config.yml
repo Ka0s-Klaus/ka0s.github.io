@@ -11,7 +11,7 @@ github_username:  Ka0s-Klaus
 
 # Build settings
 markdown: kramdown
-theme: beautiful-jekyll
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-sitemap
