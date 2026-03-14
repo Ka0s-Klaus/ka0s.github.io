@@ -1,9 +1,7 @@
 ---
 alwaysApply: true
-description: Reglas del proyecto (pendiente de definir).
+description: Reglas específicas del proyecto (índice).
 ---
 # Reglas del Proyecto
 
-Este repositorio no tiene índice de reglas propio en `.trae/rules/`.
-
-Crea un archivo `reglas.md` o `main.md` en `.trae/rules/` para reglas específicas del proyecto.
+- Índice del proyecto: [main.md](main.md)
