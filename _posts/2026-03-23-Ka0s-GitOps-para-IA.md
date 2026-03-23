@@ -2,9 +2,9 @@
 layout: post
 title: "Ka0s: GitOps para IA en Kubernetes"
 subtitle: "Reproducibilidad, control de cambios y operación predecible"
-cover-img: /assets/img/workflow-ka0s.png
+cover-img: /assets/img/ka0s-ecosistema.png
 thumbnail-img: /assets/img/kaos-daavid-2.png
-share-img: /assets/img/workflow-ka0s.png
+share-img: /assets/img/ka0s-ecosistema.png
 tags: [post, ka0s, gitops, kubernetes, ci-cd, ai]
 author: Ka0s
 ---
