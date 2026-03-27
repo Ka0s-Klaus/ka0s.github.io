@@ -2,9 +2,9 @@
 layout: post
 title: "Ka0s: CI/CD para Kubernetes"
 subtitle: "GitOps simplificado con auditoría continua"
-cover-img: /assets/img/workflow-ka0s.png
+cover-img: /assets/img/kaos-secrets.png
 thumbnail-img: /assets/img/kaos-daavid-2.png
-share-img: /assets/img/workflow-ka0s.png
+share-img: /assets/img/kaos-secrets.png
 tags: [post, ka0s, kubernetes, ci-cd, gitops, security]
 author: Ka0s
 ---
