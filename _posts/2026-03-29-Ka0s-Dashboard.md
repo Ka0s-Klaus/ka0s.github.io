@@ -2,9 +2,9 @@
 layout: post
 title: "Ka0s: Dashboard"
 subtitle: "Kanban, estado del trabajo y transparencia operativa"
-cover-img: /assets/img/ka0s-dashboard.png
+cover-img: /assets/img/kaos-init.png
 thumbnail-img: /assets/img/kaos-daavid-2.png
-share-img: /assets/img/ka0s-dashboard.png
+share-img: /assets/img/kaos-init.png
 tags: [post, ka0s, dashboard, kanban, operations]
 author: Ka0s
 ---
