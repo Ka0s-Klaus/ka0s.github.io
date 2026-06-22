@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IA desde los principios"
-subtitle: "Nuestra capacidad de imaginar inteligencia artificial se remonta a la antigüedad."
+subtitle: "Nuestra capacidad de imaginar inteligencia artificial se remonta a la antigüedad A. Mayor"
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/AI2.png
 share-img: /assets/img/futuro.png
