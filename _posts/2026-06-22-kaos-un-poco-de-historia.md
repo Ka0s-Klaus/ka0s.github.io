@@ -5,7 +5,7 @@ subtitle: "Nuestra capacidad de imaginar inteligencia artificial se remonta a la
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/AI2.png
 share-img: /assets/img/futuro.png
-tags: [post, k*, IA, Historia]
+tags: [post, K*, IA, Historia]
 author: A. Santacana
 mermaid: true
 ---
