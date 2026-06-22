@@ -1,0 +1,18 @@
+{% if page.mermaid %}
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: false, theme: 'default' });
+
+  document.addEventListener('DOMContentLoaded', function () {
+    // kramdown renders ```mermaid as <pre><code class="language-mermaid">
+    // Mermaid expects <div class="mermaid"> — convertimos aquí
+    document.querySelectorAll('code.language-mermaid').forEach(function (block) {
+      const div = document.createElement('div');
+      div.className = 'mermaid';
+      div.textContent = block.textContent;
+      block.parentElement.replaceWith(div);
+    });
+    mermaid.run();
+  });
+</script>
+{% endif %}

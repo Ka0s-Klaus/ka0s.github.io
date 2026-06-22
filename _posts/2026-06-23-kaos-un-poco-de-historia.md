@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/AI2.png
 share-img: /assets/img/futuro.png
 tags: [post, k*, IA, Historia]
 author: A. Santacana
+mermaid: true
 ---
 
 # 🧠 Historia de la Inteligencia Artificial
@@ -187,7 +188,7 @@ Sin grandes proclamas, la IA comenzó a volver por la puerta trasera.
 ### Hitos de esta etapa:
 
 | Año | Evento | Significado |
-|-----|--------|-------------|
+| --- | --- | --- |
 | **1997** | **Deep Blue** (IBM) vence a Garry Kasparov en ajedrez | Primera derrota de un campeón mundial ante una máquina en condiciones de torneo |
 | **1998** | **Yann LeCun** publica LeNet-5 | Primera aplicación exitosa de redes neuronales convolucionales para reconocimiento de escritura |
 | **2001** | **Robot Kismet** (MIT) | Primer robot con expresión facial emocional |
@@ -242,7 +243,7 @@ flowchart TD
 La arquitectura Transformer desencadenó una ola de modelos cada vez más grandes:
 
 | Año | Modelo | Parámetros | Hito |
-|-----|--------|-----------|------|
+| --- | --- | --- | --- |
 | 2018 | GPT-1 (OpenAI) | 117M | Primer LLM generativo preentrenado |
 | 2018 | BERT (Google) | 340M | Bidireccional, comprensión de texto |
 | 2019 | GPT-2 (OpenAI) | 1.5B | Tan bueno que OpenAI no lo publicó completo |
@@ -356,7 +357,7 @@ graph LR
 ## 🧩 Los Personajes que Definieron la Historia
 
 | 🧑‍🔬 Figura | Período | Contribución |
-|-----------|---------|-------------|
+| --- | --- | --- |
 | **Alan Turing** | 1936–1954 | Máquina Universal, Test de Turing, bases de la computación |
 | **John McCarthy** | 1956–2011 | Acuñó "IA", inventó LISP, organizó Dartmouth |
 | **Marvin Minsky** | 1956–2016 | Cofundador del MIT AI Lab, teoría de la mente |
@@ -424,4 +425,3 @@ Talos, el gigante de bronce de Hesíodo, tenía un punto débil en el tobillo. M
 *🖊️ Parte 1 de N — Historia y Fundamentos*
 
 Fuente: `Klaus`
-
