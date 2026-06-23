@@ -3,7 +3,7 @@ layout: post
 title: "IA - conceptos principales"
 subtitle: "De la Teoría a la Práctica: Guía Completa de los Fundamentos que Mueven el Mundo"
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/AI2.png
+thumbnail-img: /assets/img/conceptos-ia.png
 share-img: /assets/img/conceptos-ia.png
 tags: [post, K*, IA, Conceptos]
 author: A. Santacana
