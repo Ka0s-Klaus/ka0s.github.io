@@ -37,11 +37,11 @@ El objetivo es ambicioso pero alcanzable: que al terminar este artículo, tengas
 flowchart TD
     subgraph "FASE 0 — Fundamentos"
         F0A["🎯 Definir el objetivo\n¿Qué problema resuelve\ntu modelo personalizado?"]
-        F0B["💻 Evaluar el hardware\n¿Qué puedes construir,\nentrena y ejecutar?"]
+        F0B["💻 Evaluar el hardware\n¿Qué puedes construir,\nentrenar y ejecutar?"]
     end
 
     subgraph "FASE 1 — Datos"
-        F1A["📦 Recolección\nFuentes, formatos, volumen"]
+        F1A["📦 Recolección\nFuentes, formatos, volumenes"]
         F1B["🧹 Limpieza y filtrado\nDeduplicación, calidad, toxicidad"]
         F1C["✂️ Tokenización\nVocabulario, BPE, casos especiales"]
         F1D["📐 Formateo del dataset\nAlpaca, ShareGPT, conversacional"]
@@ -111,15 +111,15 @@ flowchart TD
         C1["✅ Puedes:\n• Construir y entrenar NanoGPT (1–10M params)\n• Ejecutar modelos 3B cuantizados con Ollama\n• Fine-tuning de DistilGPT-2 con LoRA\n\n❌ No puedes:\n• Modelos 7B+ en producción\n• Pre-entrenamiento real"]
     end
 
-    subgraph "🎮 GPU Consumer (8–12GB VRAM)\nRTX 3070 / RTX 4070 / RX 7800 XT"
+    subgraph "🎮 GPU Consumer (8–12GB VRAM) RTX 3070 / RTX 4070 / RX 7800 XT"
         C2["✅ Puedes:\n• Inferencia 7B–13B con GGUF Q4\n• QLoRA fine-tuning de modelos 7B\n• Embedding models a alta velocidad\n\n❌ No puedes:\n• Modelos 30B+ en inferencia rápida\n• Full fine-tuning de 7B"]
     end
 
-    subgraph "🚀 GPU Pro (24GB VRAM)\nRTX 4090 / RTX 5090 / A10G"
+    subgraph "🚀 GPU Pro (24GB VRAM) RTX 4090 / RTX 5090 / A10G"
         C3["✅ Puedes:\n• Inferencia 30B–70B con GGUF Q4\n• LoRA fine-tuning de modelos 13B–34B\n• QLoRA fine-tuning de modelos 70B\n• Modelos 7B en FP16 completo\n\n❌ No puedes:\n• Pre-entrenamiento real de modelos >1B"]
     end
 
-    subgraph "🏭 Multi-GPU / Cloud (80GB+ VRAM)\nA100 / H100 / H200"
+    subgraph "🏭 Multi-GPU / Cloud (80GB+ VRAM) A100 / H100 / H200"
         C4["✅ Puedes:\n• Todo lo anterior\n• Full fine-tuning de modelos 7B–70B\n• Pre-entrenamiento de modelos pequeños\n• Inferencia de modelos 405B+ cuantizados"]
     end
 
