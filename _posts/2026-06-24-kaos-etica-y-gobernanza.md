@@ -5,7 +5,7 @@ subtitle: "Cuando el Poder Tecnológico Exige Responsabilidad Institucional"
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/etica-gobernanza.png
 share-img: /assets/img/etica-gobernanza.png
-tags: [post, K*, IA, Ética, Gobernanza]
+tags: [post, K*, IA, Ética, Gobernanza, Responsabilidad]
 author: A. Santacana
 mermaid: true
 ---
