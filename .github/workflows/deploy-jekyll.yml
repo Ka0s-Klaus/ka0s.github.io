@@ -9,9 +9,10 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-  # Runs automatically every day at 8:00 AM UTC to publish scheduled posts
+  # Runs at 22:00 UTC (= midnight Europe/Madrid in summer, 23:00 in winter)
+  # This ensures scheduled posts appear at the start of their publication date
   schedule:
-    - cron: '0 8 * * *'
+    - cron: '0 22 * * *'
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
